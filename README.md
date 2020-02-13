@@ -10,4 +10,4 @@ For a working demo of this repo, check out https://aybc3.github.io/interactive-i
 
 Please feel free to use at will with attribution of source.
 
-![alt text](https://github.com/aybcho/interactive-image-treemap/blob/master/images/treemap.png "Main Image")
+[![alt text](https://github.com/aybc3/interactive-image-treemap/blob/master/images/treemap.png "Main Image")](https://aybc3.github.io/interactive-image-treemap/)
